@@ -15,7 +15,7 @@ Brief [guide on the Web Accessiblity](https://www.w3.org/standards/webdesign/acc
 - Adjusted Box Elements
 
 ## Project Website
-![Horiseon Webpage](https://drive.google.com/file/d/1Uy74gl5y1clG_bXUj7k-bruKSGpbCEVk/view?usp=sharing)
+![](http://pfuserfiles.globiflow.com/1180542656-7658-screenshot20200813at110724pm.png)
 
 
 [Client Website](https://klvvr.github.io/newHomework/) 
