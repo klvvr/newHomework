@@ -11,9 +11,12 @@ Brief [guide on the Web Accessiblity](https://www.w3.org/standards/webdesign/acc
 
 ## Summary of Work
 - Conformed site to current Web Accesiblity Standards
-- 
+- Condensed Classes
+- Adjusted Box Elements
 
 ## Project Website
+![Horiseon Webpage](https://drive.google.com/file/d/1Uy74gl5y1clG_bXUj7k-bruKSGpbCEVk/view?usp=sharing)
+
 
 [Client Website](https://klvvr.github.io/newHomework/) 
 
