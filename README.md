@@ -1,4 +1,5 @@
 # Horiseon Code Refactor
+![project site](https://wp-en.oberlo.com/wp-content/uploads/2019/03/SEO-article-header.png)
 
 ## Description
 The client concerns were Web Accessibility and Optimizaton. The scope of the project will involve: 
@@ -15,8 +16,6 @@ Brief [guide on the Web Accessiblity](https://www.w3.org/standards/webdesign/acc
 - Adjusted Box Elements
 
 ## Project Website
-![](http://pfuserfiles.globiflow.com/1180542656-7658-screenshot20200813at110724pm.png)
-
 
 [Client Website](https://klvvr.github.io/newHomework/) 
 
