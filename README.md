@@ -9,19 +9,13 @@ The client concerns were Web Accessibility and Optimizaton. The scope of the pro
 Brief [guide on the Web Accessiblity](https://www.w3.org/standards/webdesign/accessibility) and its impact on user interaction.
 <br><br>
 
-## Table of Contents
-- [Project Site](#Project)
-- [Usage](#Usage)
-- [Project Link](#WebLink)
+## Summary of Work
+- Conformed site to current Web Accesiblity Standards
+- 
 
+## Project Website
 
-# Project
-
-![]() 
+[Client Website](https://klvvr.github.io/newHomework/) 
 
 
 
-## Usage 
-
-
-## WebLink
